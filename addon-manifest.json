@@ -12,7 +12,7 @@
     ],
     "requires": [],
     "production": {
-      "base_url": "https://myaddon.com/heroku/resources",
+      "base_url": "https://6d02-111-88-204-39.eu.ngrok.io/heroku/resources",
       "sso_url": "https://myaddon.com/sso/login"
     },
     "version": "3"
